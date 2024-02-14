@@ -12,8 +12,6 @@ struct Node {
 
 };
 
-
-
 Node* newNode(int data) {
 
     Node* temp = new Node;
