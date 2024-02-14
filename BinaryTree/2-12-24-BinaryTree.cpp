@@ -15,7 +15,6 @@ struct Node {
 };
 
 
-
 // Function to create a new binary tree node with given data
 
 Node* newNode(int data) {
